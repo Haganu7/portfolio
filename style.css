@@ -1,0 +1,20 @@
+
+li a:hover {background-color: #000000;}
+
+nav-link:active {background-color: #000000; color: #000000;}
+
+li a:active {background-color:#000000; color:#000000;}
+
+ul {list-style-type: none;
+    background-color: #FFF;
+    position: sticky;
+    top: 0;}
+    
+body {margin: 0; color: #000000;}
+    
+A:link {COLOR: #FFFFFF}
+A:visited {COLOR: #000000;}
+A:hover {COLOR: #FFFFFF;}
+A:active {border-color: #000000;}
+li .active {background-color: #000000;}
+A:active {background-color: #000000;}
