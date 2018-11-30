@@ -12,7 +12,7 @@ ul {list-style-type: none;
     
 body {margin: 0; color: #000000;}
     
-A:link {COLOR: #FFFFFF}
+A:link {COLOR: #000000}
 A:visited {COLOR: #000000;}
 A:hover {COLOR: #FFFFFF;}
 A:active {border-color: #000000;}
